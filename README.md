@@ -4,6 +4,9 @@ Yolov8 object detection + deep sort object tracking !
 
 [Watch the video](https://www.youtube.com/watch?v=Kd0i7yqSRj8)
 
+Run main.py for testing on any video.
+yolov8n model is included in this repository.
+
 ## requirements
 
 - Python 3.7
@@ -11,12 +14,12 @@ Yolov8 object detection + deep sort object tracking !
 
 ## Deep Sort
 
-We are working on [this fork](https://github.com/computervisiondeveloper/deep_sort) from deep sort official implementation.
+Fork Deepsort object tracking using [This link](https://github.com/computervisiondeveloper/deep_sort).
+Add this deepsort repository using deepsort/ folder.
 
-You can download deep sort feature extraction model [here](https://drive.google.com/open?id=18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp).
 
 ## data
 
-You can doenload any video data to test from you tube or other websites. 
+You can download any video data to test from you tube or other websites. 
 Put your downloaded video in the data/ folder. Example: data/example.mp4. 
 Then change the path in the main.py. 

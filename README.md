@@ -2,7 +2,7 @@
 
 Yolov8 object detection + deep sort object tracking !
 
-[![Watch the video](https://studio.youtube.com/video/Kd0i7yqSRj8/edit)]
+[Watch the video](https://studio.youtube.com/video/Kd0i7yqSRj8/edit)
 
 ## requirements
 
